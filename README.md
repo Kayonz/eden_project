@@ -1,4 +1,4 @@
-Este projeto utiliza por meio de fazer um website interativo utilizando, **TYPESCRIPT**, **NODE.JS**, **ANGULAR**
+Ainda em processamento.
 
 ```
 npm install ts
